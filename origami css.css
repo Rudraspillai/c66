@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: violet;
+    
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: violet;
+}
+
+#origami1{
+    background-color: rgb(241, 86, 164);
+
+
+}
+
+#origami2{
+    background-color: rgb(241, 86, 164);
+
+}
+
+.line {
+    height: 6px;
+    background-color: paleturquoise;
+    width: 70px;
+    margin: 8px auto;
+}
